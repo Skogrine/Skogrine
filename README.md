@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**Skogrine/Skogrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media0.giphy.com/media/i0lZAPw40F212/giphy.gif" />
 
-Here are some ideas to get you started:
+### Salut tout le monde !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Hachiby ?!** 🍜
+
+## ❓ A propos de mwa
+
+**Hey**
+**Je suis français, actuellement je travaille en tant que freelance dans le développement web & le développement d'intégration de jeu-vidéo ! 😉😀
+
+## 🤫 A savoir sur moi:
+
+- 😴 Je dort très peu, ou trop 😮
+- 💌 J'aime travailler avec mes ami(e)s, et être en leurs présence 🥺
+- 👹 Je suis l'administrateur général d'un projet Minecraft (Mini-jeu), n'hésite pas à le rejoindre ! (https://discord.gg/a2WkNs6)
+- 🏰 J'adore allez à DisneyLand Paris
+- 📂 J'en apprends tous les jours, alors n'hésite pas à me contacter !
+- 💭 Si tu as besoin de me contacter sur discord voici mon identifiant : Hachiby#0940
+
+#### Merci à toi ! Bonne journée ! 👋

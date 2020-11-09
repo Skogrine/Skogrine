@@ -8,7 +8,7 @@
 ## ❓ A propos de mwa
 
 **Hey**
-**Je suis français, actuellement je travaille en tant que freelance dans le développement web & le développement d'intégration de jeu-vidéo ! 😉😀
+**Je suis français, actuellement je travaille en tant que freelance dans le développement web & le développement d'intégration de jeu-vidéo ! 😉😀**
 
 ## 🤫 A savoir sur moi:
 

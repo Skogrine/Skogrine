@@ -1,7 +1,7 @@
 
 <img src="https://media0.giphy.com/media/i0lZAPw40F212/giphy.gif" />
 
-### Salut tout le monde !
+### Hi everyone !
 
 **Skogrine ?!** 🍜
 

@@ -21,3 +21,6 @@
 - 💭 If you need to contact me on discord here is my username : Skogrine#5108
 
 #### Thanks to you ! Have a good day ! 👋
+
+
+[![Skogrine github stats](https://github-readme-stats.vercel.app/api?username=Skogrine&theme=blue-green)](https://github.com/Skogrine)

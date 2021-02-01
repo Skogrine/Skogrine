@@ -23,7 +23,6 @@
 - 👹 I am the general administrator of a Minecraft project (Mini-game), do not hesitate to join it ! (https://discord.gg/a2WkNs6)
 - 🏰 I love going to DisneyLand Paris
 - 📂 I learn about it everyday, so don't hesitate to contact me !
-- 💘 I love my wife and I would give anything for her.
 - 💭 If you need to contact me on discord here is my username : Skogrine#5108
 
 #### Thanks to you ! Have a good day ! 👋

@@ -28,7 +28,7 @@
 
 - 😴 I sleep very little, or too much 😮
 - 💌 I like working with my friends, and being in their presence 🥺
-- 👹 I am the general administrator of a Minecraft project (Mini-game), do not hesitate to join it ! (https://discord.gg/a2WkNs6)
+- 👹 I am the general administrator of a Minecraft project (Mini-game), do not hesitate to join it ! (https://discord.gg/YhgPQMt65e)
 - 🏰 I love going to DisneyLand Paris
 - 📂 I learn about it everyday, so don't hesitate to contact me !
 - 💭 If you need to contact me on discord here is my username : Skogrine#5108

@@ -3,6 +3,8 @@
 
 ### Hi everyone !
 
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/skogrine_)
+
 **Skogrine ?!** 🍜
 
 ## ❓ About me
@@ -30,6 +32,10 @@
 - 🏰 I love going to DisneyLand Paris
 - 📂 I learn about it everyday, so don't hesitate to contact me !
 - 💭 If you need to contact me on discord here is my username : Skogrine#5108
+
+## 😂 Information
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Skogrine&theme=blue-green)
+
 
 #### Thanks to you ! Have a good day ! 👋
 

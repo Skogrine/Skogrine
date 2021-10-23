@@ -36,8 +36,9 @@
 
 ## 😂 Information
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Skogrine&theme=blue-green)
-My TryHackMe profile: https://tryhackme.com/p/Skogrine
-My Root-Me profile: https://www.root-me.org/Skogrine
+
+- My TryHackMe profile: https://tryhackme.com/p/Skogrine
+- My Root-Me profile: https://www.root-me.org/Skogrine
 
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+to+you+!+Have+a+good+day+!+👋;love+u+<3)](https://git.io/typing-svg)
 

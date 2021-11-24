@@ -10,7 +10,7 @@
 
 ## ❓ About me
 
-**[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+French,+currently+I+work+as+a+CEO+and+Java+developer+at+Denoria+!+😉😀)](https://git.io/typing-svg)**
+**I am French, currently I work as a CEO and Java developer at Denoria**
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+language)](https://git.io/typing-svg)
 

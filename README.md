@@ -6,7 +6,7 @@
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/skogrine_)
 
-**[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23DC24F7&size=21&multiline=true&lines=My+name+is+Skogrine+%F0%9F%8D%9C)](https://git.io/typing-svg)**
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ❓ About me
 

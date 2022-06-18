@@ -17,4 +17,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/skogrine"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="skogrine" /></a></p><br><br>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
+<h3 align="left">Streak Stat:</h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Skogrine&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

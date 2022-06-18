@@ -21,3 +21,7 @@
 <h3 align="left">Streak Stat:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Skogrine&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<h3 align="left">Music?</h3>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k8ii4p0lq8vkatkhyyc435qn6&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Skogrine</h1>
 <h3 align="center">A developer passionate about video games and coming from France!</h3>
 
-- 🔭 I’m currently working on [Denoria Network](https://www.denoria.fr)
+- 🔭 I’m currently working on [Alphasia Network](https://alphasia.net)
 
 - 📫 How to reach me **contact@denoria.fr**
 

@@ -20,7 +20,8 @@
 
 <h3 align="left">Streak Stat:</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Skogrine&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![](https://raw.githubusercontent.com/Skogrine/Skogrine-GitHub-Stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Skogrine/Skogrine-GitHub-Stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <h3 align="left">Music?</h3>
 

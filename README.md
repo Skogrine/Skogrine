@@ -23,6 +23,6 @@
 ![](https://raw.githubusercontent.com/Skogrine/Skogrine-GitHub-Stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Skogrine/Skogrine-GitHub-Stats/master/generated/languages.svg#gh-dark-mode-only)
 
-<h3 align="left">Music?</h3>
+<h3 align="left">Music I'm currently listening to:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k8ii4p0lq8vkatkhyyc435qn6&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+![](https://spotify-github-profile.vercel.app/api/view?uid=k8ii4p0lq8vkatkhyyc435qn6&cover_image=true&theme=compact)

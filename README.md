@@ -2,6 +2,7 @@
 <h3 align="center">A developer passionate about video games and coming from France!</h3>
 
 - 🔭 I’m currently working on [Alphasia Network](https://alphasia.net)
+- 🔭 I’m currently working on Temporal (TemporalCMS, TemporalClient and many other...)
 
 - 📫 How to reach me **contact@denoria.fr**
 

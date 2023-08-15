@@ -19,7 +19,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/skogrine"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="skogrine" /></a></p><br><br>
 
-<h3 align="left">Streak Stat:</h3>
+<h3 align="left">Streak Stats: (Can not work)</h3>
 
 ![](https://raw.githubusercontent.com/Skogrine/Skogrine-GitHub-Stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Skogrine/Skogrine-GitHub-Stats/master/generated/languages.svg#gh-dark-mode-only)

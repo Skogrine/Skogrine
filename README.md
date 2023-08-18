@@ -151,5 +151,5 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Skogrine&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Skogrine" /></a> </p>
 
 </details>
-
+<p>Thanks to `7oSkaaa` !</p>
 </br></br>

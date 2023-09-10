@@ -17,7 +17,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` and `Alumni` at [42 Paris](https://42.fr/).
+- :school: I am a `Pisciner` at [42 Paris](https://42.fr/).
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.

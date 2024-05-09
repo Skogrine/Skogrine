@@ -38,6 +38,10 @@
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a>
+  &emsp; 
+  <a href="[https://www.cprogramming.com/](https://learn.microsoft.com/fr-fr/dotnet/csharp/)" target="_blank"> 
+    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%232370ED.svg?style=plastic&logo=c%23&logoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 

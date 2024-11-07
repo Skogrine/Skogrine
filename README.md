@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Mathieu Malaj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Mathieu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76565&width=435&lines=Thanks+to+read+that!;A+lover+of+life" alt="Typing SVG" /></a>
 </p>

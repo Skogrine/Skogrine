@@ -1,147 +1,109 @@
-<h1 align="center">Hi , I'm Mathieu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76565&width=435&lines=Thanks+to+read+that!;A+lover+of+life" alt="Typing SVG" /></a>
-</p>
+<div align="center">
 
+# Mathieu (Skogrine)
+
+### Software Developer · Minecraft Mod Developer
+
+Building software, creating tools and exploring new technologies.
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Skogrine&label=Profile%20views&color=0047AB&style=plastic?" alt="Skogrine" height=25px, width=160px/> 
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Skogrine-181717?style=flat-square&logo=github)](https://github.com/Skogrine)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:skogrinepro@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Skogrine&style=flat-square&color=64748b&label=PROFILE+VIEWS)
 
-	
-## <picture><img src = "https://github.com/Skogrine/Skogrine/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-- :school: I was a `Pisciner` at [42 Paris](https://42.fr/).
-- :student: I’m currently learning `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
-<br>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:skogrinepro@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Skogrine"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-
-## 🛠️ My Skills
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a>
-  &emsp; 
-  <a href="[https://www.cprogramming.com/](https://learn.microsoft.com/fr-fr/dotnet/csharp/)" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C%23%20-%232370ED.svg?style=plastic&logo=c%23&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.lua.org" target="_blank"> 
-    <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-  </a>
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p>
-
-<br> 
+</div>
 
 ---
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+## About Me
+
+I'm Mathieu, a software developer passionate about building things, solving problems and exploring new technologies.
+
+I enjoy working on a variety of projects, from Minecraft mods and plugins to software development and web applications.
+
+- Currently developing **Minecraft mods and plugins**.
+- Experienced with **Java, C, Go, C#, JavaScript, PHP and more**.
+- Former Pisciner at **[42 Paris](https://42.fr/)**.
+- Always exploring new technologies and improving my skills.
+
+---
+
+## What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Minecraft Development
+
+Developing mods, plugins and tools to enhance the Minecraft experience.
+
+- Mod development
+- Plugin development
+- Create mod addons
+- Multiloader architecture
+- Game mechanics & automation
+
+</td>
+<td width="50%" valign="top">
+
+### Software Engineering
+
+Building applications and exploring different areas of software development.
+
+- Application development
+- Backend development
+- Database management
+- Web technologies
+- Software architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cs,java,js,lua,go&theme=dark" />
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+### Frameworks & Technologies
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,mysql,electron,react,opengl&theme=dark" />
+</p>
 
-----	
+### Tools & Environment
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Skogrine&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,linux,ubuntu,windows&theme=dark" />
+</p>
 
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+---
 
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Skogrine&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skogrine&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Skogrine" height="230px"/>
-<br/>
+## GitHub Statistics
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+<div align="center">
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<br><br>
 
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Skogrine&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Skogrine" /></a> </p>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Skogrine&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
-</details>
-<p>Thanks to `7oSkaaa` !</p>
-</br></br>
+</div>
+
+> Note: Language statistics represent the composition of public repositories, not necessarily proficiency.
+
+---
+
+<div align="center">
+
+### Thanks for stopping by!
+
+*Building things, one commit at a time.*
+
+</div>
